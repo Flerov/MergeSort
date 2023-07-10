@@ -1,8 +1,12 @@
+All: </br>
+`make all` </br>
 Compilation: </br>
 `make compile` </br>
 Test: </br>
 `make test` </br>
 `./MergeSortTest` </br>
+Checkstyle: </br>
+`make checkstyle` </br>
 Usage: </br>
 `./MergeSortMain <number of integers>` </br>
 Information: </br>
